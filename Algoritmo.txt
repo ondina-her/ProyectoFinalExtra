@@ -1,0 +1,27 @@
+Algoritmo
+
+Diseñe algoritmo en base al procedimiento presentado, enumere cada acción como un paso indique las posibles decisiones que se pueden tomar.
+
+1. Tener un número base de cotización
+2. Establecer el porcentaje de recargos de las diferentes variables
+3. Preguntar si desea hacer una cotización dependiendo de la respuesta continuamos al paso siguiente si no terminamos la operación
+4. Preguntar el nombre
+5. Preguntar la edad
+6. Analizar si es mayor de edad o menor de edad
+7. Sí es menor de edad terminar la operación
+8. Calcular el recargo dependiendo de la edad sí es mayor de edad
+9. Preguntar si tiene cónyuge
+10. Si la respuesta es positiva preguntar la edad del cónyuge 
+11. Calcular el porcentaje de recargo en relación con la edad del cónyuge
+12. Si la respuesta es negativa realizar la siguiente pregunta
+13. Preguntar si tiene hijos independientemente sí la respuesta al paso 9 ha sido positiva o negativa
+14. Si la respuesta al paso anterior ha sido positiva preguntar el número de hijos
+15. Calcular el porcentaje de recargo con respecto al número de hijos
+16. Preguntar sí tiene propiedades
+17. Si la respuesta es sí calcular el recargo dado el número de propiedades
+18. si la respuesta es no realizar la siguiente pregunta
+19. Preguntar al usuario si percibe algún salario
+20. Si la respuesta es sí preguntar cuáles son los ingresos y calcular el recargo
+21. Realizar la operación de suma con respecto al número base y los diferentes recargos
+22. Presentar los resultados con respecto a los datos que el usuario ha introducido
+23. Continuar con los pasos del 3 al 23 hoy hasta que el usuario responda con la palabra salir

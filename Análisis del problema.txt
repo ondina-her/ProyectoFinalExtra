@@ -1,0 +1,13 @@
+Análisis del problema
+
+Problema:
+“El programa que se le presenta realiza una sola cotización, cámbielo para que solicite cotizaciones hasta que el usuario ingrese la palabra “Salir”. Agregue recargos extra, basados en la cantidad de propiedades y los ingresos del asegurado, el primero será del 35% de la cotización por propiedad, el segundo será el 5% sobre el salario del asegurado.”
+
+Analice los requerimientos y en sus propias palabras explique cuál es el problema y qué casos se están considerando:
+
+En este caso, el problema sigue siendo en base es el mismo que el anterior; aunque ahora debemos tomar en cuenta que necesitamos una palabra clave para dejar de realizar el procedimiento; sin esta palabra clave el procedimiento debe repetirse, igualmente cada respuesta a las preguntas debe ser tomado en cuenta y de ahí dependerá sí realizamos el procedimiento.
+
+Asimismo, debemos agregar 2 preguntas extra que igualmente deben ser respondidas y dependiendo de esto también realizaremos la operación.
+
+Debemos tomar en cuenta qué los recargos basados como anteriormente hemos dicho en la edad, el cónyuge, los hijos, las propiedades y los ingresos; y también tomar en cuenta la palabra clave que es la que permitirá que la operación finalice.
+
